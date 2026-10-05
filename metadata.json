@@ -1,0 +1,6 @@
+{
+  "name": "DBMS PT2 Master: Exam Quest & Boss Fights",
+  "description": "Gamified exam preparation platform for DBMS PT2 (DBS228917): teach-first summaries, numerical boss battles, mini-games, and mark-prioritized syllabus roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
